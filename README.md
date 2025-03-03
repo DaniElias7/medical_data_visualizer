@@ -34,7 +34,7 @@ Follow these steps to set up the project:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <MY_REPOSITORY_URL>
+    git clone https://github.com/DaniElias7/medical_data_visualizer
     cd medical-data-visualizer
     ```
 
